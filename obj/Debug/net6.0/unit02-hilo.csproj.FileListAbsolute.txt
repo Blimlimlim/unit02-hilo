@@ -1,0 +1,15 @@
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.csproj.AssemblyReference.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.AssemblyInfoInputs.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.AssemblyInfo.cs
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.csproj.CoreCompileInputs.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.exe
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.deps.json
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.runtimeconfig.json
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.dll
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\bin\Debug\net6.0\unit02-hilo.pdb
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.dll
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\refint\unit02-hilo.dll
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.pdb
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\unit02-hilo.genruntimeconfig.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit02-hilo\obj\Debug\net6.0\ref\unit02-hilo.dll
